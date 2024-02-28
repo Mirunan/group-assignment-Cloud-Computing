@@ -18,7 +18,7 @@ Follow these instructions to get the project up and running on your local machin
 - Python
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/yourusername/chat-application.git`
+1. Clone the repository: `git clone https://github.com/Mirunan/group-assignment-Cloud-Computing.git`
 2. Install dependencies: `cd chat-application && npm install`
 3. [Add additional installation steps as necessary]
 
